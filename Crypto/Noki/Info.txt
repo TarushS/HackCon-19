@@ -1,0 +1,3 @@
+I was told Vigenère Cipher is secure as long as length(key) == length(message). So I did just that!
+
+Break this: g4iu{ocs_oaeiiamqqi_qk_moam!}e0gi

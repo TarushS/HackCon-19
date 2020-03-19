@@ -1,0 +1,1 @@
+What comes before main , I wonder .... Note: flag format : flag{XXXXXXX}

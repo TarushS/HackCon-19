@@ -1,0 +1,7 @@
+Here is a file that would show you how one would normally implement DES. But we ain't normal, are we!? We are dank. So we decided to change stuff a little.
+
+Great, now all you have to do is decrypt this! But ... but don't you need a key for that? Ah what a weakling. You're so weak that I decided I need a key that is just like you.
+
+Enough clues? I guess. Oh by the way. I know I gave you a file which basically explains everything you got to do, but I'm afraid you're going to have to dig deeper if you want to last 'fewer rounds' with me in a boxing contest.
+
+okay so now you have this, an encrypted message: [9, 135, 35, 24, 209, 134, 39, 37, 8, 215, 10, 106, 192, 93, 208, 218, 222, 6, 206, 141, 79, 56, 156, 122, 88, 44, 165, 220, 227, 211, 71, 5, 76, 18, 108, 1, 233, 116, 206, 181, 40, 37, 153, 113, 158, 160, 126, 148]
